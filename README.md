@@ -3,6 +3,7 @@
 ![version](https://img.shields.io/badge/version-1.0.0--beta-blue)
 ![python](https://img.shields.io/badge/python-3.x-green)
 ![license](https://img.shields.io/badge/license-MIT-orange)
+![MaMSE mascot](mamse.png)
 
 A LaTeX subset renderer for terminal.
 
